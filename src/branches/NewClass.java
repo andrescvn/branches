@@ -11,5 +11,5 @@ package branches;
  */
 public class NewClass {
     //1
-    
+    //2
 }
